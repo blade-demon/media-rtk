@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Jennie MacGyver MD",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handmade Granite Sausages",
+      "id": 1
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=658472102264832",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3825629736730624",
+      "id": 3
+    }
+  ]
+}
